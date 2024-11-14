@@ -3,6 +3,10 @@
 ## 프로젝트 제목
 **서울 미세먼지 정보 분석을 통한 공기 질 예측 및 개선 방안 탐색**
 
+## Google Colab & Drive
+- Colab : https://url.kr/vp3ou5
+- Drive : https://url.kr/eb51tp
+
 ## 팀 구성 및 역할
 | 이름      | 역할                                      | 학번    |
 |-----------|------------------------------------------|---------|
@@ -41,7 +45,3 @@
 - **데이터셋 이름**: 서울 미세먼지 데이터셋
 - **출처**: Kaggle, (https://www.kaggle.com/datasets/bappekim/air-pollution-in-seoul)
 - **데이터 설명**: 이 데이터셋은 서울시의 시간별 대기 오염 정보와 미세먼지 농도를 포함하고 있습니다. 이를 통해 대기 오염 요소 간의 상관관계를 분석하고, 모델을 통해 향후 공기 질을 예측할 수 있습니다.
-
-## Google Colab & Drive
-- Colab : https://url.kr/vp3ou5
-- Drive : https://url.kr/eb51tp
