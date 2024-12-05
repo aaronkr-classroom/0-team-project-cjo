@@ -6,6 +6,7 @@
 ## Google Colab & Drive
 - Colab : https://url.kr/vp3ou5
 - Drive : https://url.kr/eb51tp
+- PPT : (https://docs.google.com/presentation/d/1BCdOfAY-WJEK7c9J_5kZxemdyVD5xljF/edit?usp=drive_link&ouid=117190851757275344290&rtpof=true&sd=true)
 
 ## 팀 구성 및 역할
 | 이름      | 역할                                      | 학번    |
